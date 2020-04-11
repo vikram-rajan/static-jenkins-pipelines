@@ -1,0 +1,1 @@
+# static-jenkins-pipelines
